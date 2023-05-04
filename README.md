@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="950" height="300" /> 
 <h1 align="center">Hola 👋, Soy Dixon Salas</h1>
 </div>
-<h3 align="center">Soy Desarrollador Junior De Colombia.</h3>
+<h3 align="center">Desarrollador Junior De Colombia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixon-salas&label=Profile%20views&color=0e75b6&style=flat" alt="dixon-salas" /> </p>
 
