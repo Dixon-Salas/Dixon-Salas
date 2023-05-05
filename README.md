@@ -56,6 +56,6 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________
 <div align="center">
-    <p2><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dixon-salas&" width="460" height="-10" alt="dixon-salas" /></p2>
-    <p3>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dixon-salas&show_icons=true&locale=en" width="440" height="-10" alt="dixon-salas" /></p3> 
+    <p2><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dixon-salas&" width="400" height="-10" alt="dixon-salas" /></p2>
+    <p3>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dixon-salas&show_icons=true&locale=en" width="400" height="-10" alt="dixon-salas" /></p3> 
 </div>
