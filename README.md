@@ -3,10 +3,11 @@
     <h1 align="center">Hola 👋, Soy Dixon Salas</h1>
 </div>
 
-<div id="align="left">
+<div id="header "align="left">
     <h3 align="center">Desarrollador Junior De Colombia.</h3>
 </div>
 
+______________________________________________________________________________________________________
 <div id="badge" align="center">
     <t href="http://twiter.com/dixon9422">
      <img src="https://img.shields.io/twitter/follow/dixon9422?color=green&logo=twitter&style=for-the-badge" alt="Twitter badge" alt="Twitter badge"/>
@@ -55,14 +56,13 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________
 <div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixon-salas&show_icons=true&locale=en" alt="dixon-salas" /></p>
+    <p2>
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dixon-salas&" width="460" height="-10" alt="dixon-salas" />
+    </p2>
+    <p3>
+        &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dixon-salas&show_icons=true&locale=en" width="440" height="-10" alt="dixon-salas" /> 
+    </p3> 
 </div>
 
 
-______________________________________________________________________________________________________
-<div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dixon-salas&" alt="dixon-salas" /></p>
-</div>
-
-______________________________________________________________________________________________________
 
