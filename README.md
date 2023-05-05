@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="950" height="300"/> 
-    <h1 align="center">Hola 👋, Soy Dixon Salas</h1>
+    <h1 align="center">Hola 👋, Soy Dixon Vargas</h1>
 </div>
 <div id="align="left">
 <h3 align="center">Desarrollador Junior De Colombia.</h3>
