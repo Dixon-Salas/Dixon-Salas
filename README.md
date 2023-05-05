@@ -1,11 +1,14 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="950" height="300"/> 
+    <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="950" height="300"> 
     <h1 align="center">Hola 👋, Soy Dixon Salas</h1>
+</div>
+<div id="badge" align="center">
     <t href="http://twiter.com/dixon9422">
-    <img src="https://img.shields.io/twitter/follow/dixon9422?color=green&logo=twitter&style=for-the-badge" alt="Twitter badge"/>
+     <img src="https://img.shields.io/twitter/follow/dixon9422?color=green&logo=twitter&style=for-the-badge" alt="Twitter badge" alt="Twitter badge"/>
+    </t>
     <g href="http://github.com/Dixon-Salas">
-    <img src="https://img.shields.io/github/followers/Dixon-Salas?logo=github&style=for-the-badge"
-    alt="Github badge"/>
+     <img src="https://img.shields.io/github/followers/Dixon-Salas?logo=github&style=for-the-badge" alt="Github badge"/>
+    </g>
 </div>
 
 <div id="align="left">
