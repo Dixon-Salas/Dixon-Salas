@@ -1,9 +1,15 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="950" height="300"/> 
+    <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="950" height="300"/> 
     <h1 align="center">Hola 👋, Soy Dixon Salas</h1>
+    <t href="http://twiter.com/dixon9422">
+    <img src="https://img.shields.io/twitter/follow/dixon9422?color=green&logo=twitter&style=for-the-badge" alt="Twitter social"/>
+    <g href="http://github.com/Dixon-Salas">
+    <img src="https://img.shields.io/github/followers/Dixon-Salas?logo=github&style=for-the-badge"
+    alt="Github social"/>
 </div>
+
 <div id="align="left">
-<h3 align="center">Desarrollador Junior De Colombia.</h3>
+    <h3 align="center">Desarrollador Junior De Colombia.</h3>
 </div>
 
 ______________________________________________________________________________________________________
@@ -14,7 +20,7 @@ ________________________________________________________________________________
 
 
 <div id="align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixon-salas" alt="dixon-salas" /></a> </p>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixon-salas" alt="dixon-salas" /></a> </p>
 </div>
 
 
