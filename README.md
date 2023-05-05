@@ -44,13 +44,13 @@ ________________________________________________________________________________
 
 
 _____________________________________________________________________________________________________
-<div align="left">
+<div align="center">
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixon-salas&show_icons=true&locale=en" alt="dixon-salas" /></p>
 </div>
 
 
 ______________________________________________________________________________________________________
-<div id="align="left">
+<div align="center">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dixon-salas&" alt="dixon-salas" /></p>
 </div>
 
