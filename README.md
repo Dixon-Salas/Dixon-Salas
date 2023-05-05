@@ -50,18 +50,18 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________
 <div aling="left">
-    <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dixon-salas&show_icons=true&locale=en&layout=compact" width="200" height="-10" alt="dixon-salas" /></p>
+    <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dixon-salas&show_icons=true&locale=en&layout=compact" width="300" height="-10" alt="dixon-salas" /></p>
 </div aling="left">
 
 
 _____________________________________________________________________________________________________
 <div align="left">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dixon-salas&" width="200" height="-10" alt="dixon-salas" /></p>  
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dixon-salas&" width="300" height="-10" alt="dixon-salas" /></p>  
 </div>
 
 
 
 ______________________________________________________________________________________________________
 <div align="right">
-    <p3>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dixon-salas&show_icons=true&locale=en" width="200" height="-10" alt="dixon-salas" /></p3> 
+    <p3>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dixon-salas&show_icons=true&locale=en" width="300" height="-10" alt="dixon-salas" /></p3> 
 </div>
